@@ -92,16 +92,6 @@
 
 </div>
 
-<div align="center">
-  
-[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rishi-2115&theme=dark&hide_border=false)](https://github.com/Rishi-2115)
-
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Rishi-2115/Rishi-2115/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%"/>
-</div>
-
 <br/>
 
 <div align="center">
