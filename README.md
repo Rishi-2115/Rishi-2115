@@ -12,10 +12,10 @@
 
   <br/>
 
-  <a href="https://linkedin.com/in/rishi-shukla-0077b5">
+  <a href="https://www.linkedin.com/in/rishirajshukla1/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:rishishukla2115@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/Rishi-2115">
@@ -50,7 +50,7 @@
 
 | 🧪 **VIRTUAL LAB** | 🛡️ **ANDROID MALWARE** | 🧠 **MINOR PROJECT** |
 | :---: | :---: | :---: |
-| <a href="https://github.com/Rishi-2115/Virtual-Lab"><img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="100%" height="150" style="object-fit: cover;"></a> | <a href="https://github.com/Rishi-2115/Android-Malware"><img src="https://media.giphy.com/media/26tn33ai0OC4f7f4k/giphy.gif" width="100%" height="150" style="object-fit: cover;"></a> | <a href="https://github.com/Rishi-2115/MINOR-PROJECT"><img src="https://media.giphy.com/media/SfYTJuxdAbsVW/giphy.gif" width="100%" height="150" style="object-fit: cover;"></a> |
+| <a href="https://github.com/Rishi-2115/Virtual-Lab"><img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6ffw/giphy.gif" width="100%" height="150" style="object-fit: cover;"></a> | <a href="https://github.com/Rishi-2115/Android-Malware"><img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" width="100%" height="150" style="object-fit: cover;"></a> | <a href="https://github.com/Rishi-2115/MINOR-PROJECT"><img src="https://media.giphy.com/media/QRxC6s7xXF6c8/giphy.gif" width="100%" height="150" style="object-fit: cover;"></a> |
 | **Real-time Collaborative Coding** | **ML-Powered Security Detection** | **Advanced Algorithmic Research** |
 | `React` `Socket.IO` `Node` | `Python` `Machine Learning` | `Python` `Data Science` |
 | [**View Repo**](https://github.com/Rishi-2115/Virtual-Lab) | [**View Repo**](https://github.com/Rishi-2115/Android-Malware) | [**View Repo**](https://github.com/Rishi-2115/MINOR-PROJECT) |
@@ -65,7 +65,7 @@
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=Rishi-2115&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=1a1b27&title_color=f778ba&icon_color=F706CF" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rishi-2115&show_icons=true&theme=radical&hide_border=true&bg_color=1a1b27&title_color=f778ba&icon_color=F706CF" height="180" alt="stats graph" />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishi-2115&layout=compact&theme=radical&hide_border=true&bg_color=1a1b27&title_color=f778ba&icon_color=F706CF" height="180" alt="languages graph" />
 
